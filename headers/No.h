@@ -4,13 +4,17 @@
 #include "Info.h"
 
 class No {
-    Info **infos;
+    Info** infos;
     No **ptrs;
-    
+    int tamanho;
+
     public:
         No(unsigned int n);
         Info** getInfos() const;
-        void setInfo(int pos, Info i);
+        int getTamanho() const;
+        No** getPtrs() const;
+        void addInfo(Info& i);
+        void setPtr(int pos, No* ptr);
 };
 
 #endif

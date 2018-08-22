@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1534773558 source:f:\tecnico\semestre6\toped\arvorenaria\src\arvorenaria.cpp
+	"../headers/ArvoreNAria.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1534707478 f:\tecnico\semestre6\toped\arvorenaria\headers\arvorenaria.h
+	"No.h"
+	<stdio.h>
+	<iostream>
+	<string>
+
+1534385726 f:\tecnico\semestre6\toped\arvorenaria\headers\no.h
+	"Info.h"
+
+1534380990 f:\tecnico\semestre6\toped\arvorenaria\headers\info.h
+
+1534358696 source:f:\tecnico\semestre6\toped\arvorenaria\src\minhainfo.cpp
+	"..\headers\MinhaInfo.h"
+
+1534358658 f:\tecnico\semestre6\toped\arvorenaria\headers\minhainfo.h
+	"Info.h"
+
+1534385710 source:f:\tecnico\semestre6\toped\arvorenaria\src\no.cpp
+	"../headers/No.h"
+	"../headers/Info.h"
+	<stdio.h>
+
+1534420570 source:f:\tecnico\semestre6\toped\arvorenaria\src\main.cpp
+	<iostream>
+	<stdio.h>
+	"..\headers\ArvoreNAria.h"
+	"..\headers\Info.h"
+
+1534381092 source:f:\tecnico\semestre6\toped\arvorenaria\src\info.cpp
+	"..\headers\Info.h"
+
+1534975580 source:e:\tecnico\semestre6\toped\arvorenaria\src\arvorenaria.cpp
+	"../headers/ArvoreNAria.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<vector>
+
+1534975182 e:\tecnico\semestre6\toped\arvorenaria\headers\arvorenaria.h
+	"No.h"
+	<stdio.h>
+	<iostream>
+	<string>
+
+1534975198 e:\tecnico\semestre6\toped\arvorenaria\headers\no.h
+	"Info.h"
+
+1534380990 e:\tecnico\semestre6\toped\arvorenaria\headers\info.h
+
+1534381092 source:e:\tecnico\semestre6\toped\arvorenaria\src\info.cpp
+	"..\headers\Info.h"
+
+1534968568 source:e:\tecnico\semestre6\toped\arvorenaria\src\main.cpp
+	<iostream>
+	<stdio.h>
+	"..\headers\ArvoreNAria.h"
+	"..\headers\Info.h"
+
+1534378608 e:\tecnico\semestre6\toped\arvorenaria\headers\minhainfo.h
+	"Info.h"
+
+1534380352 source:e:\tecnico\semestre6\toped\arvorenaria\src\minhainfo.cpp
+	"..\headers\MinhaInfo.h"
+
+1534975272 source:e:\tecnico\semestre6\toped\arvorenaria\src\no.cpp
+	"../headers/No.h"
+	"../headers/Info.h"
+	<stdio.h>
+
+1534381092 source:g:\tecnico\semestre6\toped\arvorenaria\src\info.cpp
+	"..\headers\Info.h"
+
+1534380990 g:\tecnico\semestre6\toped\arvorenaria\headers\info.h
+
+1534420570 source:g:\tecnico\semestre6\toped\arvorenaria\src\main.cpp
+	<iostream>
+	<stdio.h>
+	"..\headers\ArvoreNAria.h"
+	"..\headers\Info.h"
+
+1534707478 g:\tecnico\semestre6\toped\arvorenaria\headers\arvorenaria.h
+	"No.h"
+	<stdio.h>
+	<iostream>
+	<string>
+
+1534385726 g:\tecnico\semestre6\toped\arvorenaria\headers\no.h
+	"Info.h"
+
+1534385710 source:g:\tecnico\semestre6\toped\arvorenaria\src\no.cpp
+	"../headers/No.h"
+	"../headers/Info.h"
+	<stdio.h>
+
