@@ -15,9 +15,13 @@ class ArvoreNAria{
         int getTamanho() const;
         No* getNoRaiz() const;
         ArvoreNAria(unsigned int tamanho);
-        void removerNo(Info info);
-        void procurarNo(Info info);
+        bool noEhFolha(No no);
+        bool noContemInfos(No no);
+        bool removerNo(Info info);
+        No* procurarInfo(Info info, No* no);
         void inserirNo(Info& info);
+        int acharMenorInfo(No no);
+        int acharMaiorInfo(No no);
         friend std::ostream& operator<<(std::ostream& stream, const ArvoreNAria& arvore);
         string* printa(No no, string ret[], int nivelAtual);
 };

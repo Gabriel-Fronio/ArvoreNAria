@@ -5,8 +5,10 @@ class Info{
     int info;
     public:
         Info(int inf);
-        bool operator<(Info& info) const;
         int getInfo() const;
+        bool operator<(Info& info) const;
+        bool operator>(Info& info) const;
+        bool operator==(Info& info) const;
 };
 
 #endif
